@@ -1,0 +1,30 @@
+{
+    "students": [
+      {
+        "name": "     Alice Johnson ",
+        "age": 20,
+        "courses": ["CS501", "CS502", "CS503"]
+      },
+      {
+        "name": "Bob    Smith ",
+        "age": 22,
+        "courses": ["CS505", "CS504"]
+      },
+      {
+        "name": "    Charlie Davis",
+        "age": 19,
+        "courses": ["CS501", "CS508", "CS506"]
+      },
+      {
+        "name": "   Diana    Taylor",
+        "age": 21,
+        "courses": ["CS503", "CS502", "CS506", "CS507"]
+      },
+      {
+        "name": "   Bob   Dylan ",
+        "age": 21,
+        "courses": ["CS509", "CS502", "CS504"]
+      }
+    ]
+  }
+  
